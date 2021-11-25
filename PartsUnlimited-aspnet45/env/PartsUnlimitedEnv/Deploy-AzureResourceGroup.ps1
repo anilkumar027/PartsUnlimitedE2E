@@ -1,4 +1,4 @@
-﻿#Requires -Version 3.0
+﻿#Requires -Version 3.1
 #Requires -Module AzureRM.Resources
 #Requires -Module Azure.Storage
 
